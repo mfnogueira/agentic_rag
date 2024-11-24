@@ -1,0 +1,1 @@
+Due to technical constraints relating to API rate limits, we are currently unable to execute the task of finding competitor and their financial data using the available tools. It is advisable to periodically retry the request once the rate limits have reset or explore alternative methods to obtain this information.

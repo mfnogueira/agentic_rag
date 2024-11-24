@@ -1,0 +1,4 @@
+crewai
+crewai_tool
+exa-py
+weaviate-client
